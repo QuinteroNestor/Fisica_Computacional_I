@@ -1,2 +1,2 @@
-# Fisica_Computacional_I
+# Fisica Computacional I
 Este es el curso de Física computacional
