@@ -1,2 +1,7 @@
 # Fisica Computacional I
-Este es el curso de Física computacional
+
+La importancia de la programación en la física actual radica en su capacidad para enfrentar desafíos complejos. Desde simulaciones precisas de sistemas caóticos hasta el análisis detallado de datos experimentales, la física computacional nos brinda una plataforma versátil para convertir la teoría en resultados tangibles. El curso de **Física Computacional I** tiene como objetivo principal aproximar al estudiante a la programación, a través de un lenguaje de programación específico, el cual para el curso será **Python**. A través de **Python**, no solo ejecutaremos líneas de código, sino que daremos vida a ecuaciones, modelaremos sistemas complejos y exploraremos la riqueza de datos experimentales. **Python**, con su sintaxis clara y su amplio ecosistema de bibliotecas, se convierte en nuestro aliado fundamental.
+
+Este curso se desarrollará mediante el uso del **cuaderno Jupyter** (**Jupyter Notebook** en inglés), la cual es una aplicación web interactiva que permite crear y compartir documentos que contienen código en vivo, ecuaciones, visualizaciones y texto explicativo. Estos cuadernos son especialmente populares en la comunidad de programadores, científicos de datos, ingenieros y académicos debido a su capacidad para integrar código ejecutable y resultados en tiempo real, lo que facilita la exploración, análisis y presentación de datos.
+
+El curso de **Física Computacional I** pretende dar al estudiante las herramientas básicas para que éste pueda llegar a cursos más avanzados con las herramientas de programación necesarias para resolver problemas haciendo uso de **Python** o cualquier otro lenguaje de programación que fuere necesario.
